@@ -2,9 +2,14 @@
 
 main()
 {
-	putchar (66);
-	putchar (121);
-	putchar (101);
+	char x, y, z;
+	x = 'B';
+	y = 'y';
+	z = 'e';
+
+	putchar (x);
+	putchar (y);
+	putchar (z);
 	putchar (10);
 	return(0);
 }
